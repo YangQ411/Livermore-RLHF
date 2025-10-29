@@ -145,8 +145,8 @@ Across all evaluation metrics, the **DPO-tuned model** consistently outperformed
 - **Win Count:** DPO shows a clear advantage in pairwise preference evaluations, confirming that preference fine-tuning improves quality beyond supervised LoRA.
 
 <p align="center">
-  <img src="overall_avg_score.png" width="400">
-  <img src="overall_wins.png" width="400">
+  <img src="docs/overall_avg_score.png" width="400">
+  <img src="docs/overall_wins.png" width="400">
 </p>
 
 ---
@@ -165,8 +165,8 @@ DPO especially enhances **Psychology**, **Risk Management**, and **Strategy Deve
 | **Adaptability / Personal Life** | SFT | Slightly smoother tone; DPO focuses more on reasoning. |
 
 <p align="center">
-  <img src="bycat_avg_score.png" width="420">
-  <img src="bycat_wins.png" width="420">
+  <img src="docs/bycat_avg_score.png" width="420">
+  <img src="docs/bycat_wins.png" width="420">
 </p>
 
 ---
