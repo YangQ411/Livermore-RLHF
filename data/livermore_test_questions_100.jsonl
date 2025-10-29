@@ -1,0 +1,100 @@
+{"label": "Risk Management", "question": "When a trade turns against you, what is the price at which you stop arguing and start exiting?"}
+{"label": "Risk Management", "question": "Do you size positions by conviction or by volatility—what would Livermore say when those disagree?"}
+{"label": "Risk Management", "question": "If your first loss is the best loss, what rule makes it happen without debate?"}
+{"label": "Risk Management", "question": "How do you cap a bad day so it does not become a bad month?"}
+{"label": "Risk Management", "question": "What tells you a drawdown is ordinary noise versus a regime change?"}
+{"label": "Risk Management", "question": "How do you separate a temporary mistake from a thesis invalidation?"}
+{"label": "Risk Management", "question": "What risk do you refuse to insure with size, no matter the edge?"}
+{"label": "Risk Management", "question": "If markets can remain irrational longer than you can remain solvent, how long is your solvency?"}
+{"label": "Risk Management", "question": "What is your maximum heat per position, measured before the trade not after?"}
+{"label": "Risk Management", "question": "Do you cut losers by price, by time, or by information—why?"}
+{"label": "Risk Management", "question": "When pyramiding, what keeps you from adding to mere hope?"}
+{"label": "Risk Management", "question": "If a stock gaps through your stop, what is your pre-written play?"}
+{"label": "Risk Management", "question": "Which risks do you deliberately accept because avoiding them kills your edge?"}
+{"label": "Risk Management", "question": "How do you make sure a small leak does not sink a great ship?"}
+{"label": "Risk Management", "question": "What is your procedure when correlation goes to one?"}
+{"label": "Risk Management", "question": "How do you define and enforce independence between trades in the same theme?"}
+{"label": "Risk Management", "question": "What is your rule for halting trading after three consecutive errors?"}
+{"label": "Risk Management", "question": "How do you audit slippage so your stops exist in reality, not in journals?"}
+{"label": "Risk Management", "question": "What is the maximum loss you allow from thesis-to-exit including overnight risk?"}
+{"label": "Risk Management", "question": "Which position would hurt you most if it doubled in size by mistake—why?"}
+{"label": "Risk Management", "question": "Do you diversify edges or merely holdings? Prove it with your risk book."}
+{"label": "Risk Management", "question": "What must be true before you move a stop farther from danger?"}
+{"label": "Risk Management", "question": "How do you protect yourself from success—after a big win, what do you forbid?"}
+{"label": "Risk Management", "question": "What is your rule for cutting size when volatility expands?"}
+{"label": "Risk Management", "question": "How do you test that your risk rules still work in fast markets?"}
+{"label": "Risk Management", "question": "Do you ever average down? If yes, what facts—not feelings—permit it?"}
+{"label": "Risk Management", "question": "What is the disaster you rehearse monthly so it won’t surprise you?"}
+{"label": "Risk Management", "question": "How do you convert a narrative like 'it’s different this time' into a risk limit?"}
+{"label": "Risk Management", "question": "Which risks belong to you, not the market, and how do you remove them?"}
+{"label": "Risk Management", "question": "What is the smallest loss you fail to feel—and how do you make it felt?"}
+{"label": "Risk Management", "question": "How do you avoid turning a trade into an investment when pain arrives?"}
+{"label": "Risk Management", "question": "What’s your end-of-day ritual to reset risk to zero-based thinking?"}
+{"label": "Psychology", "question": "When the market flatters you, what habit keeps your head small and your stops large?"}
+{"label": "Psychology", "question": "Do you trade to be right or to make money—how do you check this each entry?"}
+{"label": "Psychology", "question": "What emotion most often poses as analysis in your process?"}
+{"label": "Psychology", "question": "How do you tell patience from paralysis?"}
+{"label": "Psychology", "question": "What signal proves your confidence is earned and not borrowed from a winning streak?"}
+{"label": "Psychology", "question": "How do you resist the urge to tinker with a working plan?"}
+{"label": "Psychology", "question": "What is your boredom trade, and how do you ban it?"}
+{"label": "Psychology", "question": "How do you make silence—waiting—part of your edge?"}
+{"label": "Psychology", "question": "What phrase do you use to end a losing argument with the tape?"}
+{"label": "Psychology", "question": "How do you prevent fear from arriving disguised as prudence?"}
+{"label": "Psychology", "question": "What is your ritual for beginning again after a bad beat?"}
+{"label": "Psychology", "question": "When envy visits, how do you keep your hands off other people’s plays?"}
+{"label": "Psychology", "question": "What boundary keeps news from hijacking your plan mid-session?"}
+{"label": "Psychology", "question": "How do you ensure humility after a lucky win?"}
+{"label": "Psychology", "question": "When you feel the need to predict, what do you measure instead?"}
+{"label": "Psychology", "question": "What inner voice do you ignore because it speaks in urgency, not evidence?"}
+{"label": "Psychology", "question": "How do you keep a journal that exposes rationalizations, not just records prices?"}
+{"label": "Psychology", "question": "What do you do the moment you catch yourself moving a stop 'just this once'?"}
+{"label": "Psychology", "question": "How do you separate identity from outcome so losses don’t dent judgment?"}
+{"label": "Psychology", "question": "What is your antidote to FOMO that fits on a sticky note?"}
+{"label": "Psychology", "question": "How do you rehearse quitting for the day before the day begins?"}
+{"label": "Psychology", "question": "What do you reward: good process with bad result, or bad process with good result?"}
+{"label": "Psychology", "question": "How do you reframe 'missing a move' so you can trade the next one cleanly?"}
+{"label": "Psychology", "question": "What is your rule for going flat when your mind isn’t?"}
+{"label": "Psychology", "question": "Which bias owns you most often, and how do you make it pay rent?"}
+{"label": "Psychology", "question": "How do you keep 'hope' from being your largest position?"}
+{"label": "Psychology", "question": "What is your cooling-off routine after two quick losses?"}
+{"label": "Psychology", "question": "How do you verify that confidence has not drifted into stubbornness?"}
+{"label": "Psychology", "question": "When you feel smarter than the tape, what do you do with your size?"}
+{"label": "Psychology", "question": "What practice teaches you to love small losses?"}
+{"label": "Psychology", "question": "How do you make discipline automatic so willpower is spared for thinking?"}
+{"label": "Psychology", "question": "What reminder brings you back to the present when you start trading your PnL?"}
+{"label": "Strategy Development", "question": "What is the core idea your strategy exploits, stated in one sentence the tape would respect?"}
+{"label": "Strategy Development", "question": "Which market condition creates your edge, and how do you know when it is absent?"}
+{"label": "Strategy Development", "question": "How do you turn a story into a testable setup with entry, add, and exit rules?"}
+{"label": "Strategy Development", "question": "What variables truly drive your strategy, and which are decoration?"}
+{"label": "Strategy Development", "question": "How do you design a strategy that scales without diluting its edge?"}
+{"label": "Strategy Development", "question": "Where does your strategy fail gracefully, and how do you detect that early?"}
+{"label": "Strategy Development", "question": "How do you separate alpha from exposure in your backtests and in live trading?"}
+{"label": "Strategy Development", "question": "What is your rule for retiring a setup that has aged out of the tape’s habits?"}
+{"label": "Strategy Development", "question": "How do you ensure your playbook contains fewer, better plays?"}
+{"label": "Strategy Development", "question": "What is the checklist you must complete before taking a 'perfect' setup?"}
+{"label": "Strategy Development", "question": "How do you encode discretion into rules so it can be taught—or audited?"}
+{"label": "Strategy Development", "question": "What do you delete from your process to make the winning part louder?"}
+{"label": "Timing", "question": "When price confirms your idea, what must be true in volume or volatility?"}
+{"label": "Timing", "question": "What tells you to buy strength versus fade exhaustion?"}
+{"label": "Timing", "question": "How do you define 'early', and what is your tax for being it?"}
+{"label": "Timing", "question": "What is the difference between a pullback to buy and a trap to avoid?"}
+{"label": "Timing", "question": "How do you recognize when a breakout is invitation versus ambush?"}
+{"label": "Timing", "question": "What time-of-day edges do you trust, and how do you size them?"}
+{"label": "Timing", "question": "How do you time adds so profits are pressed, not chased?"}
+{"label": "Timing", "question": "What is your rule for exiting into strength versus waiting for reversal?"}
+{"label": "Timing", "question": "How long must a trend persist before you treat it as more than noise?"}
+{"label": "Timing", "question": "When the tape pauses, what clock do you watch: price, volume, or news?"}
+{"label": "Timing", "question": "How do you detect distribution while the crowd still calls it consolidation?"}
+{"label": "Timing", "question": "What proves that 'no trade' was the best timing today?"}
+{"label": "Adaptability", "question": "How do you detect that the market has changed and your favorite setup has not?"}
+{"label": "Adaptability", "question": "What is your protocol for shrinking to survival mode when conditions sour?"}
+{"label": "Adaptability", "question": "How do you rotate edges when leadership rotates?"}
+{"label": "Adaptability", "question": "What must you re-learn each year because the tape forgets last year’s tricks?"}
+{"label": "Adaptability", "question": "How do you keep rules stable while tactics evolve?"}
+{"label": "Adaptability", "question": "What is your method for testing a new idea with small risk and real skin?"}
+{"label": "Personal Life", "question": "Which habit outside markets most strengthens your judgment inside them?"}
+{"label": "Personal Life", "question": "How do you arrange your life so eight hours of sleep outrank eight hours of screens?"}
+{"label": "Personal Life", "question": "What non-market discipline do you practice to keep trading simple?"}
+{"label": "Personal Life", "question": "How do you structure your day so your best hours trade your best ideas?"}
+{"label": "Personal Life", "question": "Which relationship can veto your trading day—and how do you make that a feature?"}
+{"label": "Personal Life", "question": "What do you read that quietly sharpens your edge, month after month?"}

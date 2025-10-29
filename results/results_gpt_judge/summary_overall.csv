@@ -1,0 +1,4 @@
+model,avg_score,wins,count
+dpo_model,6.0800,58,100
+sft_model,4.8600,25,100
+baseline_model,3.1000,16,100

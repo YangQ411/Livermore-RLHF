@@ -1,0 +1,63 @@
+model_name: meta-llama/Llama-3.2-1B
+precision: bf16
+
+dataset:
+  dataset_path: data/sft_dataset.jsonl
+  dpo_dataset: data/all_labels_dpo_shuffled.jsonl
+  max_len: 512
+  seed: 42
+
+lora_config:
+  r: 64
+  alpha: 128
+  dropout: 0.05
+  target_module:
+    - q_proj
+    - k_proj
+    - v_proj
+    - o_proj
+
+sft_training:
+  epochs: 8
+  batch_size: 24
+  gradient_accumulation: 4
+  max_len: 512
+  learning_rate: 2e-4
+  warmup_steps: 100
+  weight_decay: 0.01
+  save_dir: ./logs/sft
+
+dpo_training:
+  epochs: 2
+  batch_size: 16
+  gradient_accumulation: 4
+  beta: 0.1
+  learning_rate: 1e-5
+  max_len: 512
+  warmup_steps: 100
+  logging_steps: 10
+  save_dir: ./logs/dpo
+  
+evaluation:
+  eval_dataset: data/livermore_test_questions_100.jsonl
+  max_generate_length: 512
+  temperature: 0.7
+  top_p: 0.9
+  penalty: 1.1
+  do_sample: False
+  base_out: results/base_out
+  sft_out: results/sft_out
+  dpo_out: results/dpo_out
+  combine: results/combine.json
+
+gpt_eval:
+  input_file: results/combine.json
+  save_dir: results/results_gpt_judge
+  openai_api_key: 
+  judge_model: gpt-4o   
+  max_eval: 100
+  sleep: 0.3
+  category_filter: ""
+  retries: 3
+  wait_sec: 2.0
+

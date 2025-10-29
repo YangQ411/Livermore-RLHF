@@ -1,0 +1,19 @@
+category,model,avg_score,wins,count
+Adaptability,dpo_model,5.3333,0,6
+Adaptability,sft_model,6.0000,4,6
+Adaptability,baseline_model,4.0000,2,6
+Personal Life,dpo_model,6.8333,4,6
+Personal Life,sft_model,5.5000,1,6
+Personal Life,baseline_model,3.8333,1,6
+Psychology,dpo_model,6.9688,20,32
+Psychology,sft_model,5.5312,10,32
+Psychology,baseline_model,3.0000,2,32
+Risk Management,dpo_model,5.4688,17,32
+Risk Management,sft_model,4.2500,7,32
+Risk Management,baseline_model,3.2812,8,32
+Strategy Development,dpo_model,5.9167,9,12
+Strategy Development,sft_model,4.3333,1,12
+Strategy Development,baseline_model,2.5833,1,12
+Timing,dpo_model,5.5000,8,12
+Timing,sft_model,4.3333,2,12
+Timing,baseline_model,2.5833,2,12
