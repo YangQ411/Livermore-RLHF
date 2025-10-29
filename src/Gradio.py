@@ -15,7 +15,7 @@ model.to(dtype).to(device)
 
 model.eval()
 
-def respond(message, system_message, max_tokens, temperature, top_p):
+def respond(message, history, system_message, max_tokens, temperature, top_p):
     prompt = f"{system_message.strip()}\nquestion: {message.strip()}\nresponse:"
     print("=== PROMPT ===")
     print(prompt)

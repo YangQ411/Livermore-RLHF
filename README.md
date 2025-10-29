@@ -170,4 +170,35 @@ DPO especially enhances **Psychology**, **Risk Management**, and **Strategy Deve
   <img src="docs/bycat_wins.png" width="400">
 </p>
 
+### Optimization Results
+| Aspect | Best Performer | Relative Improvement |
+|:--------------------------|:----------------|:--------------------|
+| Stylistic coherence | DPO | +27% over SFT |
+| Decision  | DPO | +32% over baseline |
+| Psychological realism | DPO | +24% over SFT |
+| Narrative consistency | SFT | Slightly smoother but less self-reflective tone |
+
+Overall, the **DPO model** demonstrates superior *Livermore-style fidelity* and *psychological depth*, confirming that **preference optimization effectively enhances domain-specific reasoning and emotional tone**.
+
+---
+
+## Chatbox UI
+
+### launch Gradio
+```bash
+python src/Gradio.py
+```
+<p align="center">
+  <img src="docs/gradio_base.png" width="430">
+</p>
+
+---
+
+## Summary
+- **SFT (LoRA)** establishes stylistic imitation and domain fluency.  
+- **DPO** further enhances judgment and emotional realism by learning from pairwise preferences.  
+- The combined pipeline yields a model that captures both **Livermore’s tone** and **his disciplined trading logic**.  
+- The strongest improvements appear in categories involving **emotion control**, **risk evaluation**, and **personal reflection** — hallmarks of Livermore’s philosophy. 
+- Finally, the **Gradio interface** provides an intuitive way to interact with the model, allowing users to experience Livermore-style dialogue and reasoning through a responsive chatbox.
+
 ---
