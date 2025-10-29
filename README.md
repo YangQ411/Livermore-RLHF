@@ -162,11 +162,12 @@ DPO especially enhances **Psychology**, **Risk Management**, and **Strategy Deve
 | **Psychology** | DPO | Produces more reflective and emotionally consistent answers. |
 | **Strategy Development** | DPO | Better captures pyramiding and confirmation principles. |
 | **Timing** | DPO ≈ SFT | Both perform similarly; improvement limited by dataset coverage. |
+| **Personal Life** | DPO | DPO surpasses SFT with more human-like reflection. |
 | **Adaptability / Personal Life** | SFT | Slightly smoother tone; DPO focuses more on reasoning. |
 
 <p align="center">
-  <img src="docs/bycat_avg_score.png" width="420">
-  <img src="docs/bycat_wins.png" width="420">
+  <img src="docs/bycat_avg_score.png" width="400">
+  <img src="docs/bycat_wins.png" width="400">
 </p>
 
 ---
