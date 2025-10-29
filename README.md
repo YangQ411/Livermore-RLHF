@@ -2,7 +2,7 @@
 
 Generic LLMs often miss domain tone and decision style. This project aims to encode Jesse Livermore’s trading discipline, risk management, and psychology into a practical assistant for research and education.
 
-For achieving this goal, we use this pipline: **base model**  → **SFT (LoRA)**  → **RLHF**  → **Evaluation**  → **ChatBox UI**
+For achieving this goal, we use this pipeline: **base model**  → **SFT (LoRA)**  → **RLHF**  → **Evaluation**  → **ChatBox UI**
 * **SFT**: Style transfer to a specific persona (Jesse Livermore) via SFT with LoRA.
 * **RLHF**： Preference optimization with DPO.
 
@@ -55,7 +55,7 @@ For achieving this goal, we use this pipline: **base model**  → **SFT (LoRA)**
 
 ---
 
-## Training Pipline
+## Training Pipeline
 
 ### 1. Installation
 Clone and install dependencies:
