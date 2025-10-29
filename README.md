@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Authentication 
-Login to HuggingFace and enter your tokens (LLaMA 3.2-1B model):
+Login to HuggingFace and enter your tokens (Llama3.2-1B model):
 ```bash
 huggingface-cli login
 ```
